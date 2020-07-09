@@ -17,6 +17,8 @@
  *
  * @package WordPress
  */
+define('WP_HOME','https://wordpresstest-app.herokuapp.com');
+define('WP_SITEURL','https://wordpresstest-app.herokuapp.com');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
