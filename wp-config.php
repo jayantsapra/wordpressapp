@@ -23,7 +23,7 @@
 //define('WP_DEBUG', true);
 //define('WP_DEBUG_LOG', true);
 //define('SCRIPT_DEBUG', true);
-
+define(‘WP_MEMORY_LIMIT’, ’64M’);
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'heroku_898da69497191a0' );
