@@ -19,7 +19,7 @@
  */
 define('WP_HOME','https://cmswordpress-app.herokuapp.com');
 
-define('WP_SITEURL','http://example.com');
+define('WP_SITEURL','https://cmswordpress-app.herokuapp.com');
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'heroku_a62699e78ed62f4' );
@@ -31,7 +31,7 @@ define( 'DB_USER', 'ba16555b44848e' );
 define( 'DB_PASSWORD', 'dfbfa6c6' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'https://cmswordpress-app.herokuapp.com' );
+define( 'DB_HOST', 'us-cdbr-east-02.cleardb.com' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
