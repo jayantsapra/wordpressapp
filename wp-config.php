@@ -26,13 +26,13 @@
 define(‘WP_MEMORY_LIMIT’, ’64M’);
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'ba16555b44848e_heroku_a62699e78ed62f4' );
+define( 'DB_NAME', 'heroku_068168fea132a1f' );
 
 /** MySQL database username */
-define( 'DB_USER', 'ba16555b44848e' );
+define( 'DB_USER', 'b67e55cb6545f6' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'dfbfa6c6' );
+define( 'DB_PASSWORD', 'b50e90a5' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'us-cdbr-east-02.cleardb.com' );
